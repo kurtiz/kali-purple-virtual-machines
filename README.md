@@ -5,6 +5,23 @@
 The VMs have been uploaded to Mega.io. You can access them [here](https://mega.nz/folder/YnJjjLzB#IkjaH6In2SnQ2fkLprDk2A)
 
 
+## Why Use Kali Purple
+Kali Purple, the new version of Kali that combines both red and blue teaming capabilities, offers several benefits for users engaged in offensive and defensive security tasks:
+
+- **Comprehensive Toolset:** Kali Purple includes an expanded set of tools that cater to both offensive (red teaming) and defensive (blue teaming) security tasks. This provides users with a comprehensive arsenal of resources for various cybersecurity activities, ranging from penetration testing and vulnerability assessment to incident response and threat hunting.
+
+- **Enhanced Blue Teaming Capabilities:** Kali Purple introduces a new set of tools specifically designed for blue teaming purposes, such as identifying, protecting, detecting, responding, and recovering from security incidents. - These tools are curated to support defensive security tasks, empowering blue teams to effectively defend against cyber threats and strengthen their security posture.
+
+- **Integrated Offensive and Defensive Security:** Kali Purple seamlessly integrates offensive and defensive security capabilities, allowing users to switch between red and blue teaming tasks without needing to switch between different operating systems or toolsets. This streamlined approach enables users to efficiently assess their own systems for vulnerabilities (red teaming) and then implement appropriate defensive measures (blue teaming) to protect against potential attacks.
+
+- **Customization Options:** During the installation process, Kali Purple allows users to select which categories of blue teaming tools they prefer to install, based on their specific requirements and preferences. This flexibility enables users to tailor their Kali Purple installation to their unique needs, optimizing the toolset for their blue teaming tasks.
+
+- **Active Community Support:** Kali Linux has a large and active community of cybersecurity professionals who actively contribute to its development and provide support. This means that Kali Purple users can leverage the collective knowledge and expertise of the community for assistance, guidance, and troubleshooting, enhancing the overall user experience.
+
+- **Availability of Virtual Machine Images:** While Kali Purple is only available as a bootable ISO and not as a pre-configured virtual machine, the availability of virtual machine images i have created provides users with a convenient way to set up Kali Purple in a virtualized environment, saving time and effort in the installation process.
+
+Overall, the benefits of Kali Purple lie in its comprehensive toolset, integrated offensive and defensive security capabilities, customization options, and active community support, making it a powerful and versatile platform for red and blue teaming tasks in cybersecurity.
+
 ## Directory Structure
 ```bash
 Kali-Purple-VMs
