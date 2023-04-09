@@ -29,7 +29,7 @@ Kali-Purple-VMs
    ├──Virtual box
    └──VMWARE
       ├──kali-linux-purple-2023.1-all.zip
-	  └──kali-linux-purple-2023.1-personalize.zip
+      └──kali-linux-purple-2023.1-personalize.zip
 ```
 ## Instructions
 - ### VMWare
