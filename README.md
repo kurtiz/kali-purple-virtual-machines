@@ -4,6 +4,7 @@
 
 The VMs have been uploaded to Mega.io. You can access them [here](https://mega.nz/folder/YnJjjLzB#IkjaH6In2SnQ2fkLprDk2A)
 
+[![download](img/download.png)](https://mega.nz/folder/YnJjjLzB#IkjaH6In2SnQ2fkLprDk2A)
 
 ## Why Use Kali Purple
 Kali Purple, the new version of Kali that combines both red and blue teaming capabilities, offers several benefits for users engaged in offensive and defensive security tasks:
