@@ -61,7 +61,7 @@ Kali-Purple-VMs
 	Coming soon!!!
 
 ## NB:
-Username: kali
+Username: kali<br>
 Password: kali 
 
 If you have any issues, feedback or suggestions please create an issue here on Github and I will respond as expected.
